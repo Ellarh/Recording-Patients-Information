@@ -57,3 +57,4 @@ while record_again:
     record_again = False
   else:
     new_patients_info(name, age, nation, state, marital, gender, purpose, next_visit)
+    print("That is all!")
